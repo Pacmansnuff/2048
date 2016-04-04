@@ -424,14 +424,13 @@ hr {
   .tile.tile-16 .tile-inner {
     background: url('http://www.balelec.ch/medias/affiches/full/2013.jpg
 ');
-    background-size: 100%;
+    background-size: 20%;
     color: rgba(0,0,0,0);
     font-weight: medium;
     font-size: 10px;
   }
   .tile.tile-32 .tile-inner {
-    background: url('http://www.balelec.ch/medias/affiches/full/2012.jpg
-');
+    background: url('http://www.balelec.ch/medias/affiches/full/2012.jpg');
     background-size: 100%;
     color: rgba(0,0,0,0);
     font-size: 14px;
